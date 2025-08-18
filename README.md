@@ -1,6 +1,6 @@
 # Hi there, I'm [Shahriar Anan] 👋
 
-🚀 Full-Stack Developer | AI Enthusiast | Open-Source Contributor
+🚀 Full-Stack Developer | AI Enthusiast
 
 ## 🔧 Technical Skills
 
